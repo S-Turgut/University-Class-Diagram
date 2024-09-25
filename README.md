@@ -10,4 +10,4 @@
 
 Bu sistemi tasvir eden Class (Sınıf) diyagramını çiziniz.
 
-Not : Sınıflara ait nitelik ve davranışların belirtilmesine gerek yoktur.
+<img width="695" alt="Ekran Resmi 2024-09-25 19 38 22" src="https://github.com/user-attachments/assets/5d301d5b-02d1-4962-8eb3-73a591bc1895">
