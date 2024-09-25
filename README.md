@@ -10,4 +10,4 @@
 
 Bu sistemi tasvir eden Class (Sınıf) diyagramını çiziniz.
 
-<img width="695" alt="Ekran Resmi 2024-09-25 19 38 22" src="https://github.com/user-attachments/assets/5d301d5b-02d1-4962-8eb3-73a591bc1895">
+<img width="695" alt="University Class Diagram Photo" src="https://github.com/user-attachments/assets/f03bcfac-653c-444e-b3f1-cf0fff837807">
